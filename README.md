@@ -28,9 +28,9 @@ Train the model using the training dataset by performing forward pass, computing
 Evaluate the trained model on test images and verify the classification accuracy for new unseen images.
 ## PROGRAM
 
-### Name:KISHORE B
+### Name:DHINESHKUMAR L
 
-### Register Number:212224100032
+### Register Number:212224230066
 
 ```python
 import torch
